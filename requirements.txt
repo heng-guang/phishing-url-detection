@@ -1,0 +1,9 @@
+Flask
+Jinja2
+gunicorn
+certifi
+regex
+numpy
+pickle
+sklearn
+pandas
